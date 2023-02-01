@@ -81,3 +81,9 @@
 2023-02-01 12:02:20,758 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\INDIA\Desktop\Interview_Prepration\SpringSecurity\SpringSecurity_ratan_applications\SpringSecurityWithJwt\src\test\resources
 2023-02-01 12:11:24,593 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-01 12:11:24,605 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-01 12:11:24,610 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\INDIA\Desktop\Interview_Prepration\SpringSecurity\SpringSecurity_ratan_applications\SpringSecurityWithJwt\src\test\resources
+2023-02-01 12:35:48,722 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-01 12:35:48,758 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-01 12:35:48,761 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\INDIA\Desktop\Interview_Prepration\SpringSecurity\SpringSecurity_ratan_applications\SpringSecurityWithJwt\src\test\resources
+2023-02-01 12:36:22,132 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-01 12:36:22,146 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

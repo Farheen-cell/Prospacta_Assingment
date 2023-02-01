@@ -33,7 +33,6 @@ INDEX VERSION 1.131+C:\Users\INDIA\Desktop\coding_Assingment\Prospacta_Assingmen
 1838986626.index
 970665538.index
 1467764145.index
-1638787758.index
 2740796490.index
 846766707.index
 2064648410.index
